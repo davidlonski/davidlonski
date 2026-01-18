@@ -11,12 +11,12 @@ My journey has led me to explore a variety of fields within computer science, wi
 
 ## 🌟 Highlights  
 
-### **[EDU Ally Project]([https://github.com/your-repo-link](https://github.com/SUNY-Brockport-ACM-Student-Chapter))**
+### **[EDU Ally Project]([https://github.com/your-repo-link](https://github.com/SUNY-Brockport-ACM-Student-Chapter)**
 * **Role:** Backend Lead
 * **Tech Stack:** Next.js, Supabase, pgvector, Docker, GCP
 * **Description** Lead the migration from a Flask backend to a scalable Next.js server architecture.
 
-### **[EDU Ally Pilot]([link](https://github.com/davidlonski/RAG-Dev.git))**
+### **[EDU Ally Pilot]([link](https://github.com/davidlonski/RAG-Dev.git)**
 * **Role:** Project Developer
 * **Tech Stack:** Streamlit, Supabase, ChromaDB, GCP
 * **Description:** Developed an AI study assistant that utilizes Retrieval-Augmented Generation (RAG) to process and interact with educational PowerPoint files.
